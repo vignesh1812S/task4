@@ -21,7 +21,7 @@ import {
 } from "@ant-design/icons";
 
 const { Header, Content, Footer } = Layout;
-const { Title } = Typography;
+
 
 interface TaskExecution {
   startTime: string;
